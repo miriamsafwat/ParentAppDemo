@@ -1,0 +1,10 @@
+c:\users\safwatm3\documents\visual studio 2015\Projects\ParentApp\ParentApp\bin\Debug\ParentApp.dll
+c:\users\safwatm3\documents\visual studio 2015\Projects\ParentApp\ParentApp\bin\Debug\ParentApp.pdb
+c:\users\safwatm3\documents\visual studio 2015\Projects\ParentApp\ParentApp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\safwatm3\documents\visual studio 2015\Projects\ParentApp\ParentApp\bin\Debug\WebDriver.dll
+c:\users\safwatm3\documents\visual studio 2015\Projects\ParentApp\ParentApp\bin\Debug\WebDriver.Support.dll
+c:\users\safwatm3\documents\visual studio 2015\Projects\ParentApp\ParentApp\bin\Debug\WebDriver.xml
+c:\users\safwatm3\documents\visual studio 2015\Projects\ParentApp\ParentApp\bin\Debug\WebDriver.Support.xml
+c:\users\safwatm3\documents\visual studio 2015\Projects\ParentApp\ParentApp\obj\Debug\ParentApp.csprojResolveAssemblyReference.cache
+c:\users\safwatm3\documents\visual studio 2015\Projects\ParentApp\ParentApp\obj\Debug\ParentApp.dll
+c:\users\safwatm3\documents\visual studio 2015\Projects\ParentApp\ParentApp\obj\Debug\ParentApp.pdb
